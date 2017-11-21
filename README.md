@@ -24,11 +24,11 @@ When you use the data, we kindly ask you to cite it as follows:
 > Felipe Ebert, Fernando Castor, Nicole Novielli, Alexander Serebrenik. Confusion Detection in Code Reviews. 33rd International Conference on Software Maintenance and Evolution (ICSME'2017), New Ideas and Emerging Results. Shangai, China. September 2017.
 
 > @INPROCEEDINGS{8094460, <br />
-author={F. Ebert and F. Castor and N. Novielli and A. Serebrenik}, 
-booktitle={2017 IEEE International Conference on Software Maintenance and Evolution (ICSME)}, 
-title={Confusion Detection in Code Reviews}, 
-year={2017}, 
-pages={549-553}, 
-keywords={Androids;Humanoid robots;Labeling;Manuals;Software;Training;Uncertainty;code review;confusion;machine learning}, 
-doi={10.1109/ICSME.2017.40}, 
+author={F. Ebert and F. Castor and N. Novielli and A. Serebrenik}, <br />
+booktitle={2017 IEEE International Conference on Software Maintenance and Evolution (ICSME)}, <br />
+title={Confusion Detection in Code Reviews}, <br />
+year={2017}, <br />
+pages={549-553}, <br />
+keywords={Androids;Humanoid robots;Labeling;Manuals;Software;Training;Uncertainty;code review;confusion;machine learning}, <br />
+doi={10.1109/ICSME.2017.40}, <br />
 month={Sept},}
