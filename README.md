@@ -23,7 +23,7 @@ When you use the data, we kindly ask you to cite it as follows:
 
 > Felipe Ebert, Fernando Castor, Nicole Novielli, Alexander Serebrenik. Confusion Detection in Code Reviews. 33rd International Conference on Software Maintenance and Evolution (ICSME'2017), New Ideas and Emerging Results. Shangai, China. September 2017.
 
-> @INPROCEEDINGS{8094460, 
+> @INPROCEEDINGS{8094460, \n
 author={F. Ebert and F. Castor and N. Novielli and A. Serebrenik}, 
 booktitle={2017 IEEE International Conference on Software Maintenance and Evolution (ICSME)}, 
 title={Confusion Detection in Code Reviews}, 
