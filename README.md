@@ -1,6 +1,6 @@
 # Confusion Detection in Code Reviews
 
-This repository is part of the ICSME 2017 NIER track paper "Confusion Detection in Code Reviews". It provides the gold standard dataset with the confusion annotation for the code review comments from Android and also the complete list of features of our confusion framework.
+This repository is part of the ICSME 2017 NIER track paper "Confusion Detection in Code Reviews". It provides the gold standard dataset with the confusion annotation for the code review comments from Android and also the complete list of features of our confusion framework. This dataset has also been used in a follow-up study "Confusion in Code Reviews: Reasons, Impacts and Coping Strategies", to appear in SANER 2019.
 
 
 # Content
